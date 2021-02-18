@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>0.0.*</AssemblyVersion>
+    <Deterministic>false</Deterministic>
+    <FileVersion>0.0.1.0</FileVersion>
+    <Authors>Lood &amp; Nyu</Authors>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
